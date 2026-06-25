@@ -1,0 +1,16 @@
+{
+  "name": "telegram-music-api",
+  "version": "1.0.0",
+  "type": "module",
+
+  "scripts": {
+    "start": "node server.js"
+  },
+
+  "dependencies": {
+    "express": "latest",
+    "cors": "latest",
+    "dotenv": "latest",
+    "googleapis": "latest"
+  }
+}
